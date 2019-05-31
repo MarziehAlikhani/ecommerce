@@ -41,7 +41,7 @@
 					<h3>$pro_title</h3>
 					<img width='200' height='150' src='Admin_area/$pro_image' alt='image' />
 					<div class='price'>قیمت:<span>$pro_price تومان</span></div>                           
-					<div class='buynow'><a href='#'>هم اکنون می خرید</a></div>
+					<div class='buynow'><a href='index.php?add_cart=$pro_id'>هم اکنون می خرید</a></div>
 					<a href='details.php?product_id=$pro_id'>جزئیات</a>
 				</div>";
 			}

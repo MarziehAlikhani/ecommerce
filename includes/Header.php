@@ -8,9 +8,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>فروشگاه اینترنتی خرید کالا دیجیتال</title>
+<script src="js/city.js" type="text/javascript"></script>
 <meta name="keywords" content="free website template, flower shop, website templates, CSS, HTML" />
 <meta name="description" content="Flower Shop - free website template, W3C compliant HTML CSS layout" />
-<link href="styles/style.css" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
 <!--  Free CSS Template | Designed by TemplateMo.com  -->
 </head>
 <body>

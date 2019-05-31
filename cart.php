@@ -54,12 +54,14 @@
  
  
 		if(isset($_POST['continue']))
+		{
+			echo "<script>window.open('index.php','_self')</script>";
+		}
+		if(isset($_POST['checkout']))
 		
 		{
-		
-			echo "<script>window.open('index.php','_self')</script>";
-		
-		}	
+			echo "<script>window.open('checkout.php','_self')</script>";
+		}
  
 ?>
  
